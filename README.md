@@ -1,6 +1,6 @@
 # Ocean-Model-Comparison
 
-Analysis for paper "Representation of submesoscale baroclinic instabilities in ROMS and MPAS-O"
+Analysis for the paper "Representation of submesoscale baroclinic instabilities in ROMS and MPAS-O"
 
 This repository contains notebooks that will reproduce the figures in the paper "Representation of submesoscale baroclinic instabilities in ROMS and MPAS-O" by Kyle Hinson, Robert Hetland, Darren Engwirda, and Kat Smith, submitted to the Journal of Advances in Modeling Earth Systems.
 
