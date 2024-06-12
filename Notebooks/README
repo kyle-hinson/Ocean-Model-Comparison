@@ -1,5 +1,1 @@
-Notebooks correspond to the generation of Figures 3-10 in the associated manuscript.
-
-Figure 3: 
-Figure 4: KE_TimeSeries.ipynb
-Figure 5: Temp_Profiles.ipynb
+Notebooks are labeled such that they replicate Figures 3-9 in the manuscript. The code enclosed in the file 'bichan_utils.py' was used to calculate values of relative vorticity, divergence, and strain for ROMS outputs.
