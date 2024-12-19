@@ -1,1 +1,1 @@
-Notebooks are labeled such that they replicate Figures 3-9 in the manuscript. The code enclosed in the file `bichan_utils.py` was used to calculate values of relative vorticity, divergence, and strain for ROMS outputs.
+Notebooks are labeled such that they replicate Figures 1 & 3-9 in the manuscript. The code enclosed in the file `bichan_utils.py` was used to calculate values of relative vorticity, divergence, and strain for ROMS outputs.
