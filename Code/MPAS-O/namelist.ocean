@@ -1,5 +1,5 @@
 &run_modes
-    config_ocean_run_mode = 'forward'
+    config_ocean_run_mode = 'forward' 
 /
 &time_management
     config_do_restart = .false.
