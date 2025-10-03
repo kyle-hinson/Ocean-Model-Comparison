@@ -26,7 +26,7 @@
                   clobber_mode="truncate"
                   input_interval="initial_only"
                   io_type="pnetcdf,cdf5"
-                  output_interval="00-00-15_00:00:00"/>
+                  output_interval="00-00-05_00:00:00"/>
 
 <stream name="output"
         type="output"
