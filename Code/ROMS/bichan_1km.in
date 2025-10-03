@@ -892,7 +892,7 @@ Dout(iTvdif) == T T     ! temp_vdiff, ...    vertical diffusion
 ! Generic User parameters, [1:NUSER].
 
        NUSER =  1
-        USER =  0.01
+        USER =  0.1
 
 ! NetCDF-4/HDF5 compression parameters for output files.
 
