@@ -19,7 +19,7 @@ python3 channel_case.py \
 --num-xcell=10 \
 --num-ycell=34 \
 --len-edges=10000. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 10km
 cp ocean_model, namelist and streams to .
@@ -34,7 +34,7 @@ python3 channel_case.py \
 --num-xcell=20 \
 --num-ycell=70 \
 --len-edges=5000. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 5km
 gpmetis channel_graph.info 4
@@ -50,7 +50,7 @@ python3 channel_case.py \
 --num-xcell=50 \
 --num-ycell=174 \
 --len-edges=2000. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 2km
 gpmetis channel_graph.info 40
@@ -66,7 +66,7 @@ python3 channel_case.py \
 --num-xcell=100 \
 --num-ycell=346 \
 --len-edges=1000. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 1km
 gpmetis channel_graph.info 128
@@ -82,7 +82,7 @@ python3 channel_case.py \
 --num-xcell=200 \
 --num-ycell=692 \
 --len-edges=500. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 500m
 gpmetis channel_graph.info 512
@@ -98,7 +98,7 @@ python3 channel_case.py \
 --num-xcell=500 \
 --num-ycell=1732 \
 --len-edges=200. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 200m
 gpmetis channel_graph.info 2048
@@ -113,7 +113,7 @@ python3 channel_case.py \
 --num-xcell=1000 \
 --num-ycell=3462 \
 --len-edges=100. \
---wind-stress=0.010
+--wind-stress=0.100
 
 cd 100m
 gpmetis channel_graph.info 2048
