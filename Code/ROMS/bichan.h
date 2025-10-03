@@ -5,7 +5,7 @@
 ** Input script:       channel.in
 */
 
-#define ROMS_MODEL
+#define ROMS_MODEL 
 
 #define UV_ADV
 #define UV_COR
