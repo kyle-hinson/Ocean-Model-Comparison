@@ -7,7 +7,7 @@
 !!   See License_ROMS.txt                                              !
 !=======================================================================
 !                                                                      !
-!  This routine sets kinematic surface momentum flux (wind stress)     !
+!  This routine sets kinematic surface momentum flux (wind stress)     ! 
 !  "sustr" and "svstr" (m2/s2) using an analytical expression.         !
 !                                                                      !
 !=======================================================================
