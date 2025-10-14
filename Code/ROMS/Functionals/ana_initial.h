@@ -9,7 +9,7 @@
 !                                                                      !
 !  This subroutine sets initial conditions for momentum and tracer     !
 !  type variables using analytical expressions.                        !
-!                                                                      !
+!                                                                      ! 
 !=======================================================================
 !
       USE mod_param
