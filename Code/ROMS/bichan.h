@@ -2,7 +2,7 @@
 ** Options for the Channel Instability case used for ROMS/MPAS-O comparisons.
 **
 ** Application flag:   CHANNEL
-** Input script:       channel.in
+** Input script:       channel.in 
 */
 
 #define ROMS_MODEL 
