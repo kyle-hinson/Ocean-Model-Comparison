@@ -3,7 +3,6 @@ import cmocean.cm as cmo
 import numpy as np
 import os
 
-
 def to_rho(var, grid=None):
     if grid is None:
         grid = var.grid
